@@ -1,1 +1,15 @@
 #cloud owenership
+Introduction
+    Having explored the concept of cloud computing, its benefits, characteristics, and service models, you are now ready to dive into the details of moving to the cloud. This unit will help you better understand your clients’ cloud journey, and as a result, you will be able to explain the basics of cloud economics, advise them on cloud migration steps and describe what it takes to operate the cloud.
+    
+ADOPTING A CLOUD SOLUTION
+Cloud transformation is unique to every organization and requires a close examination of goals,data and applications before jumping in headfirst.while organizations are unique, cloud transformation should follow the same vital steps:assessment,preparation,migration and operation.
+1.assesment
+Cloud economics:the first step is assessing the company's needs and check if moving to cloud would be economically benificial.
+To do that,you add your clients need to explore the topic of cloud economics.
+
+in its most basic form, cloud economics is the study of the concepts, costs, and benefits of cloud computing.it helps an organization figure out hoe adopting could affect its IT budget, securty and infructure.
+One of the most topical questions your clients might have, is: “How does a company calculate the cost of moving to cloud?”. That’s where cloud economics come in especially handy with its concept of total cost of ownership, or TCO.
+The total cost of owenership in cloud computing referes to the total cost of implementing, running and provisioning cloud infrastructure
+
+2.preparation 3. migration 4.operation
