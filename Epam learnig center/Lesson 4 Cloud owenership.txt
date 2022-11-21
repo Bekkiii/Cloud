@@ -19,4 +19,17 @@ One of the most topical questions your clients might have, is: “How does a com
 That’s where cloud economics come in especially handy with its concept of total cost of ownership, or TCO.
 The total cost of owenership in cloud computing referes to the total cost of implementing, running and provisioning cloud infrastructure
 
-2.preparation 3. migration 4.operation
+2.preparation
+ The next step to cloud transformation is to prepare for cloud migration process. This requires evaluation of the pros and cons of cloud adoption, choosing a migration strategy and carefully planning each action point. Before that, you need to grasp the concept of cloud migration.
+ What Is Cloud Migration?
+Cloud migration involves moving your applications and data store from on-premises hosting sites to the cloud. Cloud migration is similar to a physical relocation but instead of packing and transferring real objects, it entails moving data, apps, and IT processes from one data center to another. While the concept is straightforward, its implementation is complex, requiring in-depth planning and a well-formulated strategy.
+
+A cloud migration strategy provides the roadmap for getting this done and offers various benefits to organizations. The preparation step is all about building the right strategy and following it through the next stage—migration.
+Considerations in Cloud Migration
+When you migrate products to the cloud, you discover a new range of possibilities—previously unimaginable ways to interact with customers, use and share data, and design and develop products. Making cloud a priority requires a strong understanding of these and other opportunities and a clear sense of how they can help your projects improve and innovate.
+
+When you or your clients prepare for the migration process, think about the questions below when building a strategy.
+3. migration 4.operation
+
+Public cloud platforms
+
